@@ -1,5 +1,5 @@
 # Blockchain-voting
-A proof of concept model for for a voting system based on block-chain technology. This was my project for the "CSC 330: Computer Networks" course at Ahmedabad University.
+A proof of concept model for for a voting system based on block-chain technology. 
 
 The POC model broadcasts the encrypted block of votes in blockchain.
 The nodes in the P2P network represent the voting machines.
